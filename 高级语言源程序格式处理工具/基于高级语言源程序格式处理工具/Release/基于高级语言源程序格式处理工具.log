@@ -1,0 +1,9 @@
+﻿  基于高级语言源程序格式处理工具.cpp
+F:\HUST\数据结构课程设计\基于高级语言源程序格式处理工具\基于高级语言源程序格式处理工具\基于高级语言源程序格式处理工具.cpp(82,23): warning C4018: “<”: 有符号/无符号不匹配
+F:\HUST\数据结构课程设计\基于高级语言源程序格式处理工具\基于高级语言源程序格式处理工具\基于高级语言源程序格式处理工具.cpp(1727,20): warning C4476: "printf": 格式说明符中的类型字段字符“\xef”未知
+  正在生成代码
+  1 of 215 functions ( 0.5%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    15 functions had inline decision re-evaluated but remain unchanged
+  已完成代码的生成
+  基于高级语言源程序格式处理工具.vcxproj -> F:\HUST\数据结构课程设计\基于高级语言源程序格式处理工具\Release\基于高级语言源程序格式处理工具.exe

@@ -1,0 +1,55 @@
+#include<sss>
+#define a b
+#include<>
+int _x=0x123,y_=114514;   
+char fun(short y)  
+{
+for(;i<1;i=i+1)
+{
+while(a!=b)
+{
+for(;;) x=5%6+7;
+if(x==1) 
+{
+x=_fun(a,b);
+continue;  //123
+}
+else
+{
+int x[10]; 
+if(a&&b) break;
+else float z=0.1919810;
+x=x+1; 
+}
+}
+}
+y=fun(c);
+return 0;
+}
+long y;  //123
+int _x=0x123,y_=114514;   
+char fun(short y)  
+{
+for(;i<1;i=i+1)
+{
+while(a!=b)
+{
+for(;;) x=5%6+7;
+if(x==1) 
+{
+x=_fun(a,b);
+continue;  //123
+}
+else
+{
+int x[10]; 
+if(a&&b) break;
+else float z=0.1919810;
+x=x+1; 
+}
+}
+}
+y=fun(c);
+return 0;
+}
+long y;  //123
